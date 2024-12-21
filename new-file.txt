@@ -1,2 +1,4 @@
 I added this file in the hello-world-images branch.
 Hopefully it wont appear in the master branch.
+
+I added this line to see how pull with work on the local repository.
